@@ -1,4 +1,19 @@
+
+
+
 header{
+
     background-color: #424E61;
     color: #ffff;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+}
+.cabecalho-logo{
+    width: 20%;
+
+}
+.cabecalho-item{
+    display: inline-block;
+    margin: 0 0 0 16px;
 }

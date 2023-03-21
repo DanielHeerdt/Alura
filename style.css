@@ -1,9 +1,8 @@
 
 
-
 header{
 
-    background-color: #424E61;
+    background-color: black;
     color: #ffff;
     display: flex;
     justify-content: space-around;
@@ -16,4 +15,30 @@ header{
 .cabecalho-item{
     display: inline-block;
     margin: 0 0 0 16px;
+}
+.cara-imagem {
+    width: 20%;
+    
+}
+.escola {
+    color: white;
+    background-image:linear-gradient(black,white) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.conteudo {
+    width: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+}.escola-titulo {
+    padding: 24px 0; 
+}
+.estudante-imagem {
+    width: 120px;
+}
+.icone {
+    width: 24px;
+}
+.e-div{
+    text-align: center;
 }

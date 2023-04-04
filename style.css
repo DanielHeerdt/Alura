@@ -18,8 +18,7 @@ header{
 }
 .cara-imagem {
     width: 20%;
-    
-}
+ }
 .escola {
     color: white;
     background-image:linear-gradient(black,white) ;
@@ -41,4 +40,12 @@ header{
 }
 .e-div{
     text-align: center;
+}
+.estudante-texto {
+    text-align: center;
+    padding: 50px 0px;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% 25% ;
 }
